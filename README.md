@@ -40,7 +40,7 @@ A collection of **204 tools and resources** covering cybersecurity, Microsoft Se
 - [Harmony Endpoint](<https://www.checkpoint.com/harmony/endpoint/>)
 - [ThreatDown / Malwarebytes](<https://www.threatdown.com/>)
 - [Segura PAM](<https://segura.security/>)
-## 🧰 Infraestrutura / administração
+## 🧰 Infrastructure 
 
 - [Active Directory / ADUC](<https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview>)
 - [Windows Event Viewer](<https://learn.microsoft.com/en-us/shows/inside/event-viewer>)
